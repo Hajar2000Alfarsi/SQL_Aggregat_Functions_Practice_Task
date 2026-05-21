@@ -1,0 +1,1 @@
+# SQL_Aggregat_Functions_Practice_Task
